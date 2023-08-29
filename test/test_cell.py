@@ -37,3 +37,5 @@ class TestCell(unittest.TestCase):
         self.assertEqual(cell.calculate_value(),0)
 if __name__ == '__main__':
     unittest.main()
+
+    

@@ -26,3 +26,4 @@ class TestBagTiles(unittest.TestCase):
         bag = BagTiles()
         bag.initial_tiles()
         self.assertEqual(len(bag.tiles),100)
+        
