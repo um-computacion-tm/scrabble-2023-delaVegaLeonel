@@ -15,3 +15,6 @@ class Player:
         new_tile = bag.take(1)
         bag.put([tile_to_exchange])
         self.rack.append(new_tile)
+
+
+        

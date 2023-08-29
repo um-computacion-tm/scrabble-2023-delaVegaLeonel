@@ -13,3 +13,5 @@ class Cell:
             return self.letter.value * self.multiplayer
         if self.multiplayer_type == 'word':
             return self.letter.value
+        
+        

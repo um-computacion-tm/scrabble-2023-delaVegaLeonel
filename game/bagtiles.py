@@ -54,3 +54,5 @@ class BagTiles:
                     if x.letter == letters:
                         total.append(x)
         self.tiles.extend(total)
+
+        

@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ###  Changed
 
 - Added new attribute to the class "Scrabble" named "gameid". The "gameid" is a id with the objetive to, in the future, view past game for very motives you want
-- Finally added the joker tile, but still is not work how is intendeed because still don't program the interface
+- Finally added the joker tile, but still is not work how is intendeed because still don't program the interface.
 
 ## [0.0.5] - 2023-08-28
 

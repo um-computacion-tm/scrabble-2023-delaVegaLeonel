@@ -10,4 +10,6 @@ class Scrabble:
         self.gameid = str(uuid.uuid4())
         self.players = []
         for _ in range(player_count):
-            self.players.append(Player())
+            self.players.append(Player()) 
+
+            
