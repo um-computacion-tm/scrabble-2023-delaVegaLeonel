@@ -12,4 +12,5 @@ class Scrabble:
         for _ in range(player_count):
             self.players.append(Player()) 
 
+
             
