@@ -62,7 +62,7 @@ class TestCalculateWordValue(unittest.TestCase):
 
     def test_with_letter_word_multiplier_no_active(self):
 
-        # QUE HACEMOS CON EL ACTIVE ????
+    
         word = [
             Cell(
                 multiplier=3,
@@ -83,5 +83,8 @@ class TestCalculateWordValue(unittest.TestCase):
 if __name__ == '__main__':
 
     unittest.main()
+
+
+
 
 

@@ -22,4 +22,3 @@ class TestPlayer(unittest.TestCase):
         self.assertEqual(len(player.rack),3)
         self.assertEqual(len(bag1.tiles),29)
         
-        
